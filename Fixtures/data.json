@@ -1,0 +1,35 @@
+{
+  "catalogPlanningrUrl": "http://localhost:8080/catalog-planning/#/productionsEditor",
+  "saisonsVerwaltungUrl": "http://localhost:8080/catalog-planning/#/saisonsVerwaltung",
+  "vorteileUrl": "http://localhost:8080/catalog-planning/#/Vorteile",
+  "timeoutMessage": "Превышено время ожидания!",
+  "timeoutTime": 30000,
+  "nummerValue": "6556",
+  "typValue": "Prospekt",
+  "etValue": "02.03.2017",
+  "preiseValue": "Schwarzpreis",
+  "newNummerValue": "3131",
+  "newTypValue": "Inszenierungspunkt",
+  "newEtValue": "14.06.2016",
+  "newPreiseValue": "Reduziert",
+  "newLand": "Schweiz",
+  "newKommentar": "Test123",
+  "cancelMessage": "Wurde gespeichert",
+  "badCancelMessage": "Noch nichts geändert",
+
+  "nameSaisons": "34",
+  "saisontypSaisons": "Herbst/Winter 2012/2013",
+  "startdatumSaisons": "01.09.2012",
+  "enddatumSaisons": "28.02.2013",
+  "saisonsFieldName": "Herbst/Winter 2012/2013",
+
+  "nameVorteile": "VR_3",
+  "newNameVorteile": "Test_create",
+  "editedNameVorteile": "Test_edit",
+
+  "stammadaten": "STAMMDATEN",
+
+  "seasonFolderName": "40, Herbst/Winter 2015/2016",
+  "pubTypeName": "Prospekt",
+  "publicationName": "6556 Schwarzpreis ET: 02.03.2017"
+}
